@@ -1,6 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Email-andyphamnguyen712%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andyphamnguyen712@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andy-pham-nguyen/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](YOUR_PORTFOLIO_LINK_HERE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://github.com/andy-pham-nguyen/Data_Projects_TripleTen.git)
 [![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=adobeacrobatreader)](YOUR_RESUME_LINK_HERE)
 
 👋 Hi, I'm Andy Pham-Nguyen
